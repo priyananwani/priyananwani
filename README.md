@@ -147,7 +147,7 @@ I am therefore particularly proud of these PRs and issues, as they reflect my wa
       </a>
     </td>
   </tr>
-</table> --> -->
+</table> -->
 
 <!-- Feb 4, 2024 -->
 
